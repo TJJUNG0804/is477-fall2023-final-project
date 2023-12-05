@@ -1,0 +1,26 @@
+{
+    "creators": [
+        {
+            "orcid": "0009-0003-0526-7097",
+            "name": "Jung, Taewon"
+        }
+    ],
+
+    "license": "MIT",
+
+    "title": "Reproduction of Wine: IS 477 Final Project",
+
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "10.24432/C5PC7J",
+            "relation": "cites",
+            "resource_type": "dataset"
+        }
+    ],
+
+    "keywords": ["Wine", "Alcohol"],
+    "access_right": "open",
+    "upload_type": "software",
+    "description": "project"
+}
