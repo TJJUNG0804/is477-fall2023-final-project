@@ -1,3 +1,6 @@
+# Reproduction of Wine: IS 477 Final Project
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10274410.svg)](https://doi.org/10.5281/zenodo.10274410)
+
 # Overview
 This project centers on the analysis of a wine dataset that includes the results of a chemical analysis of wines from the same region in Italy but derived from three different cultivars. The focus is to utilize these chemical features to classify the wines accurately.
 The dataset comprises 178 instances with 13 attributes. These attributes are key chemical constituents such as Alcohol content, Malic Acid, Ash, and others, which are significant for distinguishing between the types of wine. The attributes have been narrowed down from an initial set of around 30 variables due to the loss of the complete list and the inability to determine which of the 13 variables were included in the original set.

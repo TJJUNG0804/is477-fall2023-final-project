@@ -9,6 +9,10 @@
     "license": "MIT",
 
     "title": "Reproduction of Wine: IS 477 Final Project",
+    "description": "Reproduction of Wine: IS 477 Final Project",
+    "access_right": "open",
+    "upload_type": "software",
+    "keywords": ["Wine", "Alcohol"],
 
     "related_identifiers": [
         {
@@ -17,10 +21,5 @@
             "relation": "cites",
             "resource_type": "dataset"
         }
-    ],
-
-    "keywords": ["Wine", "Alcohol"],
-    "access_right": "open",
-    "upload_type": "software",
-    "description": "Reproduction of Wine: IS 477 Final Project"
+    ]
 }
