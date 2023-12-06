@@ -5,5 +5,3 @@ matplotlib
 scikit-learn
 ydata_profiling
 snakemake
-os
-
