@@ -17,7 +17,7 @@ The analysis of the wine dataset was conducted with a focus on chemical composit
 In order to reproduce the environment and run the script, follow these steps below:
 
 1. My environment information:
-Read environment.log
+Read environment.log for the environment information
 
 2. Install Dependencies: Make sure you have Python and the required libraries installed:
 Code: "pip install -r requirements.txt"
@@ -26,37 +26,19 @@ The requirements.txt contains the basic list of required libraries in order to r
 3. Data Preprocessing: Run the data preprocessing script to prepare the data for analysis:
 Code: "python prepare_data.py"
 
-- Workflow
-1. snakemake --cores 1 profile
-   snakemake --cores 1 analysis 
+Workflow: In order to reproduce run codes below
+snakemake --cores 1 profile
+snakemake --cores 1 analysis 
 
 # License
-software
-MIT License
-data
-cc4 
-wine data
-own data
+Software License 
+- MIT License
 
-Copyright (c) 2023 Taewon Jung
+Data License 
+- Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Wine Data
+- Own License(Creative Commons Attribution 4.0 International (CC BY 4.0))
 
 MIT license is permissive open source software license. This license allow to use, distribution and modification of my code for any purpose, while it gives me credit for my work. Also, MIT license is used mainly for research and academic purposes. 
 
