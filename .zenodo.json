@@ -9,10 +9,10 @@
     "license": "MIT",
 
     "title": "Reproduction of Wine: IS 477 Final Project",
-    "description": "Reproduction of Wine: IS 477 Final Project",
+    "description": "Focus on chemical composition to classify the origin of wines",
     "access_right": "open",
     "upload_type": "software",
-    "keywords": ["Wine", "Alcohol"],
+    "keywords": ["Wine", "Alcohol","Chemical Composition"],
 
     "related_identifiers": [
         {

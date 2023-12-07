@@ -29,21 +29,20 @@ The requirements.txt contains the basic list of required libraries in order to r
 3. Data Preprocessing: Run the data preprocessing script to prepare the data for analysis:
 Code: "python prepare_data.py"
 
-Workflow: In order to reproduce run codes below
-snakemake --cores 1 profile
-snakemake --cores 1 analysis 
+4. Workflow: In order to reproduce run codes below
+Code: snakemake --cores 1 profile
+Code: snakemake --cores 1 analysis 
 
 # License
 Software License 
 - MIT License
 
-Data License 
-- Creative Commons Attribution 4.0 International (CC BY 4.0)
-
-Wine Data
-- Own License(Creative Commons Attribution 4.0 International (CC BY 4.0))
-
 MIT license is permissive open source software license. This license allow to use, distribution and modification of my code for any purpose, while it gives me credit for my work. Also, MIT license is used mainly for research and academic purposes. 
+
+Dataset License: Wine Data
+- Own License (Creative Commons Attribution 4.0 International (CC BY 4.0))
+
+This allows for the sharing and adaptation of the datasets for any purpose, provided that the appropriate credit is given.
 
 # Reference
 Citation:
